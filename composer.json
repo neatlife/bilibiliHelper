@@ -1,0 +1,6 @@
+{
+    "require": {
+        "gabrielrcouto/php-gui": "dev-master",
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
